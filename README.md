@@ -6,7 +6,9 @@
 
 frok项目，直接在vercel上面部署。
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyoufun%2Fwayback-viewer)  一键部署到 Vercel
 
+demo https://wayback-viewer.vercel.app（建议自行部署）
 
 ### Docker部署
 
